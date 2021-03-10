@@ -1,4 +1,5 @@
 # IntelliJ specific
+.idea/
 .lift/*.xml
 
 # Compiled class file
