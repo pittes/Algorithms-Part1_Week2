@@ -1,6 +1,7 @@
 # IntelliJ specific
 .idea/
 .lift/*.xml
+.lift/checkstyle*
 
 # Compiled class file
 *.class
