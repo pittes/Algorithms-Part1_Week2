@@ -3,6 +3,9 @@
 .lift/*
 !.lift/algs4.jar
 
+# Coursera configuration
+*.iml
+
 # Compiled class file
 *.class
 
