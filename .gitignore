@@ -1,7 +1,7 @@
 # IntelliJ specific
 .idea/
-.lift/*.xml
-.lift/checkstyle*
+.lift/*
+!.lift/algs4.jar
 
 # Compiled class file
 *.class
